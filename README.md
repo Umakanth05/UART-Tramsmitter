@@ -34,7 +34,7 @@ This project implements a UART transmitter using Verilog HDL. It converts parall
 ![Waveform](docs/50ns.png)
 
 ## Power Analysis
-![Power_analysis](docs/Power_analysis.png)
+![Power_analysis](docs/power_analysis.png)
 
 ## How to Run
 1. Open in Vivado  
