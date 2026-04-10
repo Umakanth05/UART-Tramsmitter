@@ -19,14 +19,14 @@ This project implements a UART transmitter using Verilog HDL. It converts parall
 - netlist/ → Synthesized output  
 - docs/ → Waveforms & schematic  
 
-Tools Used
+## Tools Used
 - Xilinx Vivado  
 - Verilog HDL  
 
 ## Results
 
 ## Schematic
-![Schematic](docs/uart schematic.png)
+![Schematic](docs/schematic.png)
 
 ## Simulation Waveform
 ![Waveform](docs/5ns.png)
